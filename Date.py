@@ -1,4 +1,3 @@
-#Shaan Sullivan
 #This program prints the date
 
 #Initialize Variables
